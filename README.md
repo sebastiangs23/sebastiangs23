@@ -1,16 +1,22 @@
-### Hi there 👋
+# About
+Hola 👋!
 
-<!--
-**sebastiangs23/sebastiangs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona que le gusta el estar constantemente superándose mediante metas por que considero que estas te ayudan a crecer y ser mejor persona. 
+Por ese motivo decidi adentrarme en el mundo de la programación, actualmente ya estoy graduado como full Stack Developer.
 
-Here are some ideas to get you started:
+🎲Hobbies:
+Hacer ejercicio.
+Pasear a mi perro.
+Escuchar musica.
+Leer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠Tecnologías: 
+Lenguajes = [ "Javascript", "Java", "Html" ]
+Back = [ "NodeJs", "Express" ]
+Front =[ "React Js", "Redux", "Bootstrap", "Tailwindcss", "Figma"]
+Base_Datos = [ "PostgreSQL" , "Sequelize"]
+Softwares_de_desarrollo = [ "Firebase", "Blender" ]
+
+✏Contacto:
+🟢Correo : sebastiangs2309@gmail.com
+🟢Phone : (+51) 970 863 286
