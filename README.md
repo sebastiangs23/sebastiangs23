@@ -13,8 +13,8 @@ Leer.
 🧠Tecnologías: 
 Lenguajes = [ "Javascript", "Java", "Html" ]
 Back = [ "NodeJs", "Express" ]
-Front =[ "React Js", "Redux", "Bootstrap", "Tailwindcss", "Figma"]
-Base_Datos = [ "PostgreSQL" , "Sequelize"]
+Front =[ "React Js", "Redux", "Bootstrap", "Tailwindcss", "Figma", "PugJs"]
+Base_Datos = [ "MySql", "PostgreSQL" , "Sequelize" ]
 Softwares_de_desarrollo = [ "Firebase", "Blender" ]
 
 ✏Contacto:
