@@ -1,7 +1,7 @@
 # About
 Hello 👋!
 
-I am a person who who enjoys constantly challeging myself through goals, as I belive they help me grow and become a better individual. That´s why I decided to delve into the world of programming. 
+I am a person who who enjoys constantly challeging myself through goals, as I belive they help me grow and become a better individual. That´s why I decided to delve into the world of programming. I am currently working as a Backend Developer.
 
 🎲 Hobbies: Exercising, taking my dog for walks, listening to music, reading.
 
