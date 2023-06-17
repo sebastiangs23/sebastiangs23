@@ -1,21 +1,18 @@
 # About
-Hola 👋!
+Hello 👋!
 
-Soy una persona que le gusta el estar constantemente superándose mediante metas por que considero que estas te ayudan a crecer y ser mejor persona. 
-Por ese motivo decidi adentrarme en el mundo de la programación, actualmente ya estoy graduado como full Stack Developer.
+I am a person who who enjoys constantly challeging myself through goals, as I belive they help me grow and become a better individual. That´s why I decided to delve into the world of programming. 
 
-🎲Hobbies:
-Hacer ejercicio.
-Pasear a mi perro.
-Escuchar musica.
-Leer.
+🎲 Hobbies: Exercising, taking my dog for walks, listening to music, reading.
 
-🧠Tecnologías: 
-Lenguajes = [ "Javascript", "Java", "Html" ]
-Back = [ "NodeJs", "Express" ]
-Front =[ "React Js", "Redux", "Bootstrap", "Tailwindcss", "Figma", "PugJs"]
-Base_Datos = [ "MySql", "PostgreSQL" , "Sequelize" ]
-Softwares_de_desarrollo = [ "Firebase", "Blender" ]
+🧠 Technologies: 
+Languages = ["Javascript", "Html", "Java"],
+Back = ["NodeJs", "Express"], 
+Front = ["React Js", "Redux", "Bootstrap", "VueJS", "Vuetify" ,"Tailwindcss", "Figma", "PugJs", "CSS" ], 
+Databases = ["MySql", "PostgreSQL", "Sequelize"], 
+Development Software = ["Firebase", "Blender", "DBeaver,"DiagramsNet"].
+
+Feel free to contact me if you're interested in collaborating on exciting projects or discussing career opportunities. I am open to relocation and eager to explore new challenges and expand my skill set.
 
 ✏Contacto:
 🟢Correo : sebastiangs2309@gmail.com
