@@ -13,11 +13,3 @@ Front = ["React Js", "Redux", "Bootstrap", "VueJS", "Vuetify" ,"Tailwindcss", "F
 Databases = ["MySql", "PostgreSQL", "Sequelize", "PL/PGSQL"]; 
 
 Development Software = ["Firebase", "Blender", "DBeaver,"DiagramsNet"];
-
-🎲 Hobbies: Exercising, taking my dog for walks, listening to music, reading.
-
-Feel free to contact me if you're interested in collaborating on exciting projects or discussing career opportunities. I am open to relocation and eager to explore new challenges and expand my skill set.
-
-✏Contacto:
-🟢Correo : sebastiangs2309@gmail.com
-🟢Phone : (+51) 970 863 286
